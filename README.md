@@ -179,4 +179,4 @@ frontend/src/
 
 ## Autor
 
-**Javier Ribal del Río** — Hyperloop UPV · Training Center Software 2026
+**Vicente Rivas Monferrer** — Hyperloop UPV · Training Center Software 2026
