@@ -1,0 +1,12 @@
+# Go
+backend/vendor/
+backend/*.exe
+backend/hyperloop-tc-backend
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+*.log
