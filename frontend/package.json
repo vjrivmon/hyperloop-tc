@@ -10,8 +10,8 @@
   "dependencies": {
     "@radix-ui/react-scroll-area": "^1.0.5",
     "@radix-ui/react-slot": "^1.0.2",
-    "@react-three/drei": "^10.0.0",
-    "@react-three/fiber": "^9.0.0",
+    "@react-three/drei": "9.109.2",
+    "@react-three/fiber": "8.17.10",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "lucide-react": "^0.344.0",
